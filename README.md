@@ -20,14 +20,12 @@ Sunt pasionat de **Python**, **AI/ML** și dezvoltarea de backend scalabile și 
 
 ## 🚀 Proiecte importante
 
-### 1️⃣ Optimizare Performance Cars API
+### Optimizare Performance Cars API
 - Backend API pentru gestionarea performanței mașinilor  
 - **Stack:** FastAPI, PostgreSQL, JWT  
 - Modular, scalabil, cu autentificare și validare completă  
 - [Repo GitHub](https://github.com/AleZ98/AleZ98/tree/9fafc65762459e3e2c4f548505e39079bd57f768)
 
-### 2️⃣ (Proiect 2) – adaugă dacă ai
-- Scurtă descriere + link GitHub
 
 ---
 

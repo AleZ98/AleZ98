@@ -42,9 +42,9 @@ Sunt pasionat de **Python**, **AI/ML** și dezvoltarea de backend scalabile și 
 
 ## 🔗 Contact & Profile
 
-- LinkedIn: ![Banner](https://raw.githubusercontent.com/AleZ98/AleZ98/main/linkedin_banner.png)
-- Email: alex.petcu@example.com  
-- Portofoliu: [GitHub](https://github.com/AleZ98)
+- LinkedIn: (https://raw.githubusercontent.com/AleZ98/AleZ98/main/linkedin_banner.png)
+- Email: pmalexandru15@yahoo.com
+- Portofoliu:(https://github.com/AleZ98)
 - 
 
 

@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @AleZ98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Project Name
 
-<!---
-AleZ98/AleZ98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Short description (1–2 lines)
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Tech Stack
+- Python
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+
+## Project Structure
+```bash
+app/
+  routers/
+  models/
+  schemas/
+  services/
+main.py

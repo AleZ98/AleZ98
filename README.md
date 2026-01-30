@@ -1,14 +1,35 @@
-- 👋 Hi, I’m @AleZ98
-I am a programmer passionate about technology, such as machine learning, software engineering. I love creating projects where I can help people make tasks simpler and easier to use at work, and I do it out of passion.
+# Alex Petcu – Python Backend Developer 🐍🚀
+
+Hi! I’m Alex, a passionate **Python developer** building clean and scalable backend systems.  
+I specialize in **FastAPI, PostgreSQL, and RESTful APIs**, and I love creating projects that solve real problems.
+
+---
+
+## 💻 Skills
+- **Languages:** Python 3, SQL  
+- **Frameworks:** FastAPI, SQLAlchemy, Pydantic  
+- **Tools:** Git, Docker, JWT, Uvicorn  
+- **Databases:** PostgreSQL  
+- **Other:** API design, Authentication, CRUD operations
+
+---
+
+## 🚀 Featured Projects
+
+### 1. **Optimizare Performance Cars API**
+- Backend API for car performance management with authentication and CRUD operations  
+- FastAPI + PostgreSQL + JWT  
+- Modular and scalable structure  
+- [GitHub Repository](https://github.com/AleZ98/AleZ98/tree/9fafc65762459e3e2c4f548505e39079bd57f768)
 
 
-Here I will post all the simpler or more complex projects I've worked on.
 
-I am very curious about programming technology and I am always learning.
+---
 
-Thanks. :)
+## 🔗 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/petcu-alexandru-56744b395/ 
+- Email: pmalexandru15@yahoo.com
 
-<!---
-AleZ98/AleZ98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+*I’m actively looking for opportunities as a Python backend developer or internship, eager to contribute and learn in professional projects.*

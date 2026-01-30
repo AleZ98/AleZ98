@@ -1,82 +1,63 @@
-# Install tools
-  - pip install -r requirements.txt
-   - uvicorn main:app --reload
+# 👋 Salut! Sunt Alex Petcu – Python & AI/ML Developer
 
-# Car Performance Optimization System 🚗⚙️
-
-Backend system for managing car data and performance specifications, built with **FastAPI** and designed using a scalable, modular architecture.
-
-The project focuses on real-world backend development practices such as authentication, data modeling, clean architecture, and API security.
+Sunt pasionat de **Python**, **AI/ML** și dezvoltarea de backend scalabile și curate.  
+Îmi place să construiesc **proiecte reale**, să învăț continuu și să contribui la tehnologie prin cod bine structurat și documentat.
 
 ---
 
-## 🚀 Features
+## 💻 Skilluri Tehnice
 
-- REST API with **20+ endpoints**
-- User authentication and authorization using **JWT**
-- Role-based access (user / admin)
-- CRUD operations for:
-  - Users
-  - Cars
-  - Performance specifications
-- Input validation using **Pydantic**
-- Clean, modular backend architecture
-- Ready for future extensions (analytics, optimization algorithms, AI models)
+| Limbaje | Framework-uri | Tool-uri / DB |
+|----------|---------------|---------------|
+| Python  | FastAPI       | PostgreSQL    |
+| SQL     | Django (basic)| Docker        |
+| Bash    | Pydantic      | Git           |
+|          | SQLAlchemy    | JWT           |
+
+🔹 Alte competențe: API design, CRUD, autentificare, data processing, scripting Python.  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Proiecte importante
 
-- **Python**
-- **FastAPI**
-- **PostgreSQL**
-- **SQLAlchemy (ORM)**
-- **Pydantic**
-- **JWT Authentication**
+### 1️⃣ Optimizare Performance Cars API
+- Backend API pentru gestionarea performanței mașinilor  
+- **Stack:** FastAPI, PostgreSQL, JWT  
+- Modular, scalabil, cu autentificare și validare completă  
+- [Repo GitHub](https://github.com/AleZ98/AleZ98/tree/9fafc65762459e3e2c4f548505e39079bd57f768)
+
+### 2️⃣ (Proiect 2) – adaugă dacă ai
+- Scurtă descriere + link GitHub
 
 ---
 
-## 📁 Project Structure
+## 📈 Badge-uri skilluri (opțional)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONwebtokens&logoColor=white)
 
-```bash
-app/
- ├── routers/        # API routes
- ├── models/         # Database models
- ├── schemas/        # Pydantic schemas
- ├── services/       # Business logic
- ├── core/           # Config, security, JWT utils
- └── database.py     # Database connection
-main.py              # Application entry point
-requirements.txt
+---
 
-▶️ How to Run the Project
-1. Clone the repository
-git clone https://github.com/AleZ98/car-performance-optimization-system.git
-cd car-performance-optimization-system
+## 🔗 Contact & Profile
 
-2. Create virtual environment & install dependencies
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
-pip install -r requirements.txt
+- LinkedIn: [linkedin.com/in/alexpetcu](https://linkedin.com)  
+- Email: alex.petcu@example.com  
+- Portofoliu: [GitHub](https://github.com/AleZ98)
 
-3. Run the server
-uvicorn main:app --reload
+---
 
-4. Open API documentation
+## 🌟 Ce am învățat
 
-Swagger UI: http://127.0.0.1:8000/docs
+- Structurarea unui proiect FastAPI modular și scalabil  
+- Implementarea autentificării JWT și protecția endpoint-urilor  
+- Validarea datelor cu Pydantic  
+- Conectarea la PostgreSQL cu SQLAlchemy  
+- Gestionarea erorilor și răspunsuri standardizate  
+- Documentație API automată cu Swagger / Redoc
 
-ReDoc: http://127.0.0.1:8000/redoc
+---
 
-
-
-## Hi, I'm Alex 👋
-
-Junior Python Backend Developer focused on FastAPI and AI systems.
-
-🔹 Python | FastAPI | PostgreSQL  
-🔹 REST APIs | JWT Authentication  
-🔹 AI & Machine Learning integration  
-
-📫 LinkedIn: https://www.linkedin.com/in/petcu-alexandru-56744b395/
+> ⚡ Motiv pentru care GitHub-ul meu este mai mult decât cod: este portofoliul meu, dovezi reale ale skillurilor și evoluției mele ca dezvoltator Python și AI/ML.
 
